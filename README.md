@@ -4,8 +4,8 @@ HypeBasket is a full-stack MERN e-commerce web application designed to deliver a
 The application integrates Stripe and Razorpay payment gateways to enable safe and reliable online transactions. HypeBasket is inspired by modern e-commerce platforms in both design and usability and aims to provide a scalable and production-ready shopping solution.
 <br/>
 
-## 🌐 VIDEO DEMOLINK ON INTEGRATED TERMINAL:<br/>
-https://your-video-link-here
+## 🎥 VIDEO DEMOLINK (run on local terminal):<br/>
+https://drive.google.com/file/d/1mq02C7_G6dlj3ajzqzC0z_-qojbv1-aa/view?usp=sharing
 <br/>
 
 ## 🚀 Features
